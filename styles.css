@@ -1,0 +1,36 @@
+/* font-family */
+.container .navbar-brand,.navbar-nav .nav-link,h1,h2,h3,h4,p,#btn1{
+    font-family: "Outfit", sans-serif;
+}
+
+.navbar{
+    background-color: #15191e;
+}
+ 
+#bg{
+    background:url(Images/pexels-scottwebb-136404.jpg);
+    background-position: center;
+    background-size: cover;   
+}
+
+
+/* TRAINERS */
+
+#line{
+    width: 150px;
+    height: 1.5px;  
+}
+
+#line-1{
+    width: 350px;
+    height: 1px;
+}
+#img-2{
+    opacity:0.7 ;
+    
+}
+
+#social-icon{
+    width: 20px;
+    height: 20px;
+}
